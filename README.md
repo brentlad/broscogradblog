@@ -1,1 +1,1 @@
-# IscreamMan.github.io
+https://broscograd.ga/ a test blog built with jekyll
